@@ -1,0 +1,149 @@
+{
+  "name": "mods",
+  "game_version": null,
+  "created_by": "henryisdumb1",
+  "mods": [
+    {
+      "name": "AutoPath",
+      "version": "1.3.4",
+      "source": null,
+      "hash": "ce07b4f962cf2f1281ec9d612c05ab53e45c44c3219d329619e641d3d40996e5",
+      "files": [
+        "AutoPath\\AutoPath.dll",
+        "AutoPath\\AutoPath.json"
+      ],
+      "folder_name": "AutoPath",
+      "mod_id": "AutoPath",
+      "enabled": true,
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.4_3d51b578.zip",
+      "bundle_sha256": "3d51b5781a70ecc7aa91439de5165d309dc46f93b7529d246aa55322a4f90eda"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.3",
+      "source": null,
+      "hash": "bade1c0a8d4d2a410c1af11be0888df43d09f02d8e6226972c9ec7264dfc4526",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_c5268d6e.zip",
+      "bundle_sha256": "c5268d6e673f9168295078912ce9cb1187fed1700495cb45fb337f60b23689f2"
+    },
+    {
+      "name": "DeckStats",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "ffec30003dad0191a7a2975a0b0cdb5399733baf8b9b98ed6d299ef2b1817a7d",
+      "files": [
+        "DeckStats\\DeckStats.dll",
+        "DeckStats\\DeckStats.json"
+      ],
+      "folder_name": "DeckStats",
+      "mod_id": "DeckStats",
+      "enabled": true,
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/DeckStats_v1.0.0_fb922fdc.zip",
+      "bundle_sha256": "fb922fdcc471793ed6cab3344b9295f472cd95b0d4e001cecb434c981fb7cffd"
+    },
+    {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.7",
+      "source": null,
+      "hash": "b91ac9b59956d06e864a94c2fd04217eb5d8f4471688ebfe4069148e0f55c1fc",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_648277c0.zip",
+      "bundle_sha256": "648277c0e9933d61aba8a636b7f03060ea6c411ff98c6ab8e94b4636d6a4258b"
+    },
+    {
+      "name": "Shared Draw Pile",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "b0a9dfeb06e7e9b66a51b55e66b8d15cae9c2c9ac3b6ec329482b02180c72a09",
+      "files": [
+        "SharedDrawPile\\SharedDrawPile.dll",
+        "SharedDrawPile\\SharedDrawPile.json",
+        "SharedDrawPile\\SharedDrawPile.pdb"
+      ],
+      "folder_name": "SharedDrawPile",
+      "mod_id": "SharedDrawPile",
+      "enabled": true,
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/Shared_Draw_Pile_v0.1.0_fc2f32ac.zip",
+      "bundle_sha256": "fc2f32ac38b7ca6ad30ef70416a5d253c24c8cc3565445f640057c47e5e85ffa"
+    },
+    {
+      "name": "ShowCardDmgInRewards",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "2420b754e3d53dea077bbe3ea0065bc269f4bac38e7861c70a23eb5d63a4310f",
+      "files": [
+        "ShowCardDmgInRewards\\ShowCardDmgInRewards.dll",
+        "ShowCardDmgInRewards\\ShowCardDmgInRewards.json"
+      ],
+      "folder_name": "ShowCardDmgInRewards",
+      "mod_id": "ShowCardDmgInRewards",
+      "enabled": true,
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/ShowCardDmgInRewards_v1.0.1_a953c31c.zip",
+      "bundle_sha256": "a953c31ccc0c6e534bab4c8ed28653866e77dc93a1b25f88bb7b5c8f928c189d"
+    },
+    {
+      "name": "StS2 Card Advisor",
+      "version": "v1.15.4",
+      "source": null,
+      "hash": "b15900d46543136d712f73310803d278221baf3317b3ebeede575ca205129f81",
+      "files": [
+        "Sts2CardAdvisor\\Sts2CardAdvisor.dll",
+        "Sts2CardAdvisor\\Sts2CardAdvisor.json"
+      ],
+      "folder_name": "Sts2CardAdvisor",
+      "mod_id": "Sts2CardAdvisor",
+      "enabled": true,
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.4_d71ea175.zip",
+      "bundle_sha256": "d71ea1757c7b1f2a943c011510aba9173ff867382dd47bd00f5cc4b78a4aa92b"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_3ddec307.zip",
+      "bundle_sha256": "3ddec3078aae30034a2467197216e8a07fe4da0f4a4ac0d2cf0a962e4edf8101"
+    }
+  ],
+  "created_at": "2026-05-15T17:49:15.688996800Z",
+  "updated_at": "2026-05-22T23:34:52.129906800Z",
+  "public": false
+}

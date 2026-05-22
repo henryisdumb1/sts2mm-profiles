@@ -15,8 +15,8 @@
       "folder_name": "AutoPath",
       "mod_id": "AutoPath",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.4_e2844fa7.zip",
-      "bundle_sha256": "e2844fa7c655e27a826f6dcc52910e3cdf788d0140deb4edb0fe50dc941e495f"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.4_aec86596.zip",
+      "bundle_sha256": "aec8659628b4e3947445aa7f7c58320f39f9bc7ea6b692756ae73aa89c3c82d7"
     },
     {
       "name": "BetterSpire2",
@@ -45,8 +45,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_21e5d754.zip",
-      "bundle_sha256": "21e5d75476080c5303f0303176aee0e81b2e67cb33266cf72b2a7a7aa7d7e497"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_8c23ffcc.zip",
+      "bundle_sha256": "8c23ffcc979820e193954b3222fe9a4516c2076c102ae7dbf40f02ac12e1cbc0"
     },
     {
       "name": "DeckStats",
@@ -60,8 +60,8 @@
       "folder_name": "DeckStats",
       "mod_id": "DeckStats",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/DeckStats_v1.0.0_30d42e3c.zip",
-      "bundle_sha256": "30d42e3c8a144996f4a268c0f07f71c91c5acacfceca48e0b1770f31f830fe30"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/DeckStats_v1.0.0_adfc7bbe.zip",
+      "bundle_sha256": "adfc7bbea94db99369f08e31f96fb13f06ed6431d49eabdd1bf75a73e0914fa3"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
@@ -77,8 +77,8 @@
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_dd07f085.zip",
-      "bundle_sha256": "dd07f085782996f26c0f55b6a18f359129d5f26123448315a31ca1154ee90567"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_7ff19c30.zip",
+      "bundle_sha256": "7ff19c30e0747ab43aa3d71e466edb8ba67d8292978aee497bcba0969c5408bf"
     },
     {
       "name": "Shared Draw Pile",
@@ -93,8 +93,8 @@
       "folder_name": "SharedDrawPile",
       "mod_id": "SharedDrawPile",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/Shared_Draw_Pile_v0.1.0_7c20f3c5.zip",
-      "bundle_sha256": "7c20f3c55a088eacd0c0d795c95388460e5e1cdebea10308310af4c8be48089d"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/Shared_Draw_Pile_v0.1.0_2167c16b.zip",
+      "bundle_sha256": "2167c16b6bd23cbbb8b6fe44566805f5667ea435fc6c2008a88e338d3489f9e1"
     },
     {
       "name": "ShowCardDmgInRewards",
@@ -108,8 +108,8 @@
       "folder_name": "ShowCardDmgInRewards",
       "mod_id": "ShowCardDmgInRewards",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/ShowCardDmgInRewards_v1.0.1_1f9c8fc6.zip",
-      "bundle_sha256": "1f9c8fc6addd15a2b516f5419077536d5f4a0e3e0d5935d35558eca50025f4de"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/ShowCardDmgInRewards_v1.0.1_da6d41fc.zip",
+      "bundle_sha256": "da6d41fc57a6bd18a135f95487065df65b2c3468fd7a305a89241741ee78eca1"
     },
     {
       "name": "StS2 Card Advisor",
@@ -123,8 +123,8 @@
       "folder_name": "Sts2CardAdvisor",
       "mod_id": "Sts2CardAdvisor",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.4_87491f05.zip",
-      "bundle_sha256": "87491f059ff046abb8ffc3990161bc68b208da0848288447c22b68e8e8919dcf"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.4_3a985e38.zip",
+      "bundle_sha256": "3a985e38a6906a37a47d809996c3c9f42373ef4cc071fa18daebca8b407f5ae2"
     },
     {
       "name": "Unified Save Path",
@@ -139,8 +139,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_c7a42ab3.zip",
-      "bundle_sha256": "c7a42ab3ebb587e68bc4df6410e55e29f271c60d2ccc42b5cc52e73d0e55e359"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_2368bd68.zip",
+      "bundle_sha256": "2368bd6809c20c759d2bdbfdf63996954c4da2e9aa199c1050c965d3b51aa503"
     },
     {
       "name": "皮皮统计: Skada",
@@ -155,11 +155,11 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_7321af00.zip",
-      "bundle_sha256": "7321af00dc19962d626a942333b1f1f5b08783d6c78d3552e42294c32ded8207"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_156862c1.zip",
+      "bundle_sha256": "156862c1a4badd839457aef6f646f62d90063b80cd6433cd0bee35a59ccae8f3"
     }
   ],
   "created_at": "2026-05-15T17:49:15.688996800Z",
-  "updated_at": "2026-05-22T23:36:08.639182100Z",
+  "updated_at": "2026-05-22T23:39:44.335289100Z",
   "public": false
 }

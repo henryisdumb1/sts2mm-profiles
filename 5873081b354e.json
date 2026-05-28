@@ -15,8 +15,8 @@
       "folder_name": "AutoPath",
       "mod_id": "AutoPath",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.4_f0c890a3.zip",
-      "bundle_sha256": "f0c890a39968bb3677300bda46e36355810f1d3ed0e523e4cfbe2a4b49852d46"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.4_ad2cf9da.zip",
+      "bundle_sha256": "ad2cf9da7ae7729a795248ae15498d09a66fdbc49691a32ddcdd41e4c99e4c6f"
     },
     {
       "name": "BetterSpire2",
@@ -45,8 +45,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_a9104c0e.zip",
-      "bundle_sha256": "a9104c0ef2275022bcb22ac9bf38337314b26c16c517a09272e7d9fbfac2a30b"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_3889a026.zip",
+      "bundle_sha256": "3889a0260fd5c33a4099755898c45f6e3fbc94d2f850d8a06de377601bf4fcc6"
     },
     {
       "name": "DeckStats",
@@ -60,37 +60,8 @@
       "folder_name": "DeckStats",
       "mod_id": "DeckStats",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/DeckStats_v1.0.0_059989f9.zip",
-      "bundle_sha256": "059989f945b25ff41d9ec2d8abfc2bbbf21bb16c14cff411c1c950c6ebdcc3f2"
-    },
-    {
-      "name": "Party Signals - Automatic Card Callouts",
-      "version": "1.0.3",
-      "source": null,
-      "hash": "cd88260003754b284be107a038c9febf661c6818e06cf5ec8cb8767fd92854a4",
-      "files": [
-        "partysignals\\partysignals.dll",
-        "partysignals\\partysignals.json",
-        "partysignals\\translations\\deu.loc",
-        "partysignals\\translations\\eng.loc",
-        "partysignals\\translations\\esp.loc",
-        "partysignals\\translations\\fra.loc",
-        "partysignals\\translations\\ita.loc",
-        "partysignals\\translations\\jpn.loc",
-        "partysignals\\translations\\kor.loc",
-        "partysignals\\translations\\pol.loc",
-        "partysignals\\translations\\ptb.loc",
-        "partysignals\\translations\\rus.loc",
-        "partysignals\\translations\\spa.loc",
-        "partysignals\\translations\\tha.loc",
-        "partysignals\\translations\\tur.loc",
-        "partysignals\\translations\\zhs.loc"
-      ],
-      "folder_name": "partysignals",
-      "mod_id": "partysignals",
-      "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/Party_Signals_-_Automatic_Card_Callouts_v1.0.3_6add6f66.zip",
-      "bundle_sha256": "6add6f662dce1ebaba140a1ee62fa549611f99c861ced9f7957e88bfaa308e26"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/DeckStats_v1.0.0_663ad403.zip",
+      "bundle_sha256": "663ad40302ef7e80bb81e6b1ea35b92dbc2ae7d6369b3545d86a1eb8454fdab2"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
@@ -106,8 +77,8 @@
       "folder_name": "Remove Multiplayer Player Limit-21-0-1-7-1778841224",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_280ae387.zip",
-      "bundle_sha256": "280ae38799dd30ade9a570df464a23adff77cad8b66d03c1d64a1d75481b8fbd"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_13e0484e.zip",
+      "bundle_sha256": "13e0484ebaac45ffc5db7e2a960efd18c254a12461cfc5e3197325369e18fd8c"
     },
     {
       "name": "ShowCardDmgInRewards",
@@ -121,8 +92,8 @@
       "folder_name": "ShowCardDmgInRewards",
       "mod_id": "ShowCardDmgInRewards",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/ShowCardDmgInRewards_v1.0.1_6f686c49.zip",
-      "bundle_sha256": "6f686c499bd9919cb547e28e296e0ae40fbe82dccf027841ad36073498082d84"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/ShowCardDmgInRewards_v1.0.1_789b517f.zip",
+      "bundle_sha256": "789b517f1e3d13996a9436309eb6026fbd981cd67f2c6385b19ae8715bfb3433"
     },
     {
       "name": "StS2 Card Advisor",
@@ -136,8 +107,8 @@
       "folder_name": "Sts2CardAdvisor",
       "mod_id": "Sts2CardAdvisor",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.4_e504e0ce.zip",
-      "bundle_sha256": "e504e0ce2a855ab59e1ed478dcc33c4b8e4ee7deb3074afebf411633e28d434e"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.4_5ed947a2.zip",
+      "bundle_sha256": "5ed947a2923abc6c0a0a18c248e870d4ba6ab8488af1c9751db978407fc899a8"
     },
     {
       "name": "Unified Save Path",
@@ -152,8 +123,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_f3600ab4.zip",
-      "bundle_sha256": "f3600ab47ff20aa9053a3874613b97e2f31db4005b69432175909b9feaa3c25f"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_8628d0f0.zip",
+      "bundle_sha256": "8628d0f0ed2d8d0df85705c1c8fa77979afb4e778d2a324ff409b3332e27bedf"
     },
     {
       "name": "皮皮统计: Skada",
@@ -168,11 +139,11 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_064a20f3.zip",
-      "bundle_sha256": "064a20f39d4ba0534d934bc7f8c8ba191e43718d19de637e29fcf58381f7f5c6"
+      "bundle_url": "https://github.com/henryisdumb1/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_cffa643a.zip",
+      "bundle_sha256": "cffa643a5545b189c30c162174227d1764b573681d979851b446be2a79cecdfd"
     }
   ],
   "created_at": "2026-05-15T17:49:15.688996800Z",
-  "updated_at": "2026-05-27T02:37:10.730255100Z",
+  "updated_at": "2026-05-28T02:14:53.311998Z",
   "public": true
 }
